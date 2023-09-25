@@ -1,0 +1,24 @@
+#map {
+    height: 600px;
+    width: 1000px;
+    background-color: #ccc;
+    border-color: black;
+    border-style: solid;
+}
+
+#searchButton,
+#searchOptions {
+    margin-bottom: 10px;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchOptions {
+    height: 30px;
+    width: 100px;
+}
